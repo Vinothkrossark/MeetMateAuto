@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette: Premium Indigo + Violet -->
+    <color name="indigo_primary">#4F46E5</color>
+    <color name="indigo_dark">#3730A3</color>
+    <color name="indigo_light">#818CF8</color>
+    <color name="violet_accent">#7C3AED</color>
+    <color name="violet_light">#A78BFA</color>
+
+    <!-- Gradient start/end -->
+    <color name="gradient_start">#4F46E5</color>
+    <color name="gradient_end">#7C3AED</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0F0E1A</color>
+    <color name="bg_card">#1A1829</color>
+    <color name="bg_card_hover">#221F35</color>
+    <color name="bg_surface">#13111F</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F1F0FF</color>
+    <color name="text_secondary">#9896B8</color>
+    <color name="text_muted">#5C5A7A</color>
+
+    <!-- Status colours -->
+    <color name="green_success">#10B981</color>
+    <color name="green_light">#D1FAE5</color>
+    <color name="red_error">#EF4444</color>
+    <color name="amber_warn">#F59E0B</color>
+    <color name="blue_info">#3B82F6</color>
+
+    <!-- UI elements -->
+    <color name="divider">#2A2840</color>
+    <color name="toggle_off">#3A3858</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

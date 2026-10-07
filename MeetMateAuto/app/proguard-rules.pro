@@ -1,0 +1,2 @@
+-keep class com.krossark.meetmate.** { *; }
+-keepattributes *Annotation*

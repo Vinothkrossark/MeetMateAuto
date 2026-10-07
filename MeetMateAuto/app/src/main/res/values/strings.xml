@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetMate Auto</string>
+    <string name="accessibility_description">MeetMate Auto uses Accessibility to automatically join Google Meet, turn off mic and camera, and leave the meeting — all hands-free.</string>
+</resources>
